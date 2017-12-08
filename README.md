@@ -1,3 +1,3 @@
 # Hello_World
-hello friend,
+Hello friend,
 I am Dhritiraj Alamyan.
